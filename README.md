@@ -3,8 +3,8 @@
 El link del repo de github es el siguiente: https://github.com/ramonmorillx/ETL-s
 
 **Autores**:
-Ramón Morillo Barrera - ramon.morillo@cunef.edu / ramonvejer@gmail.com
-José Carlos Monescillo Calzado - jose.monescillo@cunef.edu / josecarlsmm@gmail.com
+- Ramón Morillo Barrera - ramon.morillo@cunef.edu / ramonvejer@gmail.com
+- José Carlos Monescillo Calzado - jose.monescillo@cunef.edu / josecarlsmm@gmail.com
 
 ## Bienvenidos a mi repo de Github
 
