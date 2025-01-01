@@ -10,11 +10,18 @@ El link del repo de github es el siguiente: https://github.com/ramonmorillx/ETL-
 
 En este repositorio se mostrarán diversos proyectos de ETL realizados tanto en el máster de ciencia de datos que curso como proyectos independientes cuyo objetivo es profundizar y adquirir conocimientos nuevos, además de mejorar y potenciar mi pensamiento crítico y habilidades en la ciencia de datos.
 
-## ETL Project 1 SQL:
+## ETL Project 1 SQL
 
 ### Resumen del Proyecto:
 
 Este proyecto tiene como objetivo aplicar los conocimientos adquiridos en la asignatura de ETL (Extracción, Transformación y Carga) para desarrollar un proceso de ETL de inicio a fin con el objetivo de adquirir y profundizar en los conocimientos adquiridos hasta la fecha. Se realizará una fase de carga de datos, en la que crearemos las tablas en SQL correspondientes a nuestros archivos .csv para posteriormente volcarlos en las mismas, una fase de transformación en la que se calcularán las métricas de calidad de nuestros datos, se limpiarán, se procesarán y se calcularán las métricas necesarias para nuestro análisis. Finalmente realizaremos la fase de carga en la que se definirá el modelo relacional preparado para recibir consultas y trabajar con él, manteniendo la consistencia y la relación entre todas las tablas.
+
+## ETL Project 2 Python
+
+### Resumen del Proyecto:
+
+El objetivo real de este proyecto es convertir estos datos en un valioso recurso analítico que facilite el estudio de tendencias y patrones subyacentes, con la finalidad de apoyar y hacer ver a los pequeños comercios que la recopilación, tratamiento y análisis de datos es una gran herramienta para potenciar las ventas y el beneficio.
+
 
 #### Repositorio de Github:
 El repositorio está compuesto por las siguientes carpetas:
@@ -24,6 +31,6 @@ El repositorio está compuesto por las siguientes carpetas:
   - **`raw`**: Archivos de datos originales, tal como se obtuvieron.
   - **`data dictionary`**: Diccionario de datos de todas las tablas en formato XLSX
 
-- **`scripts SQL`**: Scripts de los procesos ETL (Extract, Transform y Load) en formato .sql
+- **`scripts`**: Scripts de los procesos ETL (Extract, Transform y Load) en formato .sql
 
 - **`relational model`**: Modelo relacional final en formato XLSX y diagrama de tablas del modelo relacional.
